@@ -1,0 +1,19 @@
+@import url("../styles/fonts.css");
+
+.myteam {
+    background-color: rgba(255, 0, 221, 0.05);
+    padding: 10px;
+}
+
+.allpokes > h2, .myteam > h2 {
+    text-align: left;
+
+    padding-bottom: 0;
+    font-family: "Pokemon Solid";
+    text-align: center;
+    font-size: 3rem;
+    -webkit-text-stroke: 3px #2c70b7;
+    letter-spacing: 4px;
+    color: #ffcb05;
+}
+

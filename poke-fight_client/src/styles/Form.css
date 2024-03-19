@@ -1,0 +1,22 @@
+.form {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+}
+form > * {
+  padding: 1rem;
+  margin-bottom: 2rem;
+}
+form > label {
+  font-size: 1.22rem;
+  font-weight: bold;
+  color: #515151;
+}
+.pokemon-name {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #515151;
+}
